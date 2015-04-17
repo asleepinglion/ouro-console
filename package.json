@@ -4,12 +4,13 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "A simple abstraction for writing messages to the console styled by message type..",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/superjs-console",
   "dependencies": {
-    "superjs": "*"
+    "superjs": "*",
+    "colors": "*"
   },
   "license": "MIT"
 }

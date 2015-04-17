@@ -20,4 +20,4 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
 
 */
 
-module.exports.Console = require('./modules/console/class');
+module.exports.Console = require('./lib/console/class');
