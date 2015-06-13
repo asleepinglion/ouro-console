@@ -1,15 +1,15 @@
 {
-  "name": "superjs-console",
+  "name": "ouro-console",
   "author": {
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.2",
+  "version": "0.9.0",
   "description": "A simple abstraction for writing messages to the console styled by message type..",
   "main": "index.js",
-  "repository": "https://github.com/asleepinglion/superjs-console",
+  "repository": "https://github.com/asleepinglion/ouro-console",
   "dependencies": {
-    "superjs": "*",
+    "ouro": "*",
     "colors": "*"
   },
   "license": "MIT"
