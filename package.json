@@ -4,13 +4,14 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "A simple abstraction for writing messages to the console styled by message type..",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/ouro-console",
   "dependencies": {
     "ouro": "*",
     "ouro-base": "*",
+    "recursive-merge": "*",
     "colors": "*"
   },
   "license": "MIT"
